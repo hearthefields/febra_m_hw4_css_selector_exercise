@@ -4,7 +4,7 @@
 
 <img src="img/github_galaxy.webp" alt="GitHub Galaxy" width="500"/> </h2>
   
-<h3 align="center">👉 Select Your Characters 👈<br><br>
+<h3 align="center">👉 Adding Functionality with CSS 👈<br><br>
   
 [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-grammas-recipe.svg)](https://forthebadge.com)
@@ -43,7 +43,7 @@ select the entire list item’s content and set their color appropriately.
 7. Use the ::after pseudo selector to add a graphic element indicating completion (check, thumbs up, etc)
 ```
 
-### <samp>Submission: Homework must be submitted by Class of Week 11 at 530PM (EST)(EST)</samp>
+### <samp>Submission: Homework must be submitted by Class of Week 11 at 530PM (EST)</samp>
 
 - [x] Github repo named correctly (lastName_firstInitial_HW1):
 
